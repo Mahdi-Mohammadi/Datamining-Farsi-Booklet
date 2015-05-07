@@ -1,2 +1,2 @@
-# Datamining-Farsi-Booklet-
+# Datamining-Farsi-Booklet
 جزوه درس داده کاوی 1 - دانشگاه امیرکبیر - جناب استاد محمدپور
