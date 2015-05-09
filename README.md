@@ -1,2 +1,5 @@
 # Datamining-Farsi-Booklet
-جزوه درس داده کاوی 1 - دانشگاه امیرکبیر - جناب استاد محمدپور
+
+* Data Mining 1
+* Dr. Adel MohammadPour
+* AmirKabir University of Iran
